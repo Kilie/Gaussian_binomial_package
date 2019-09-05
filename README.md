@@ -12,7 +12,7 @@ Therefore, if you want to try it out, this package can be pip installed by using
 
 ## File Discription
 
-There are 5 files in this folder, including:
+There are 4 files in this folder, including:
 
 > 1. Bionomialdistribution.py  which includes the code for calculating binomial distributions;
 
