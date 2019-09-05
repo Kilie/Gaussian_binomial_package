@@ -1,6 +1,6 @@
 ## Gaussian and Binomial Distributions 
 
-This package can be used to calculate the mean, standard deviation, and probability density for Gaussian and binomial distributions. 
+This package can be used to calculate the mean, standard deviation, and probability density of Gaussian and binomial distributions. 
 
 Additions of two Gaussian distributions or two binomial distributions, respectively, can be also conducted using this package. Note that when adding two binomial distributions, their probability will have to be equal. Otherwise, the code will raise an error. 
 
