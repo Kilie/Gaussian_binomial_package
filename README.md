@@ -26,6 +26,11 @@ There are 4 files in this folder, including:
 
 You are very welcome to contribute to this repository either by adding more functions to these two distributions or adding more distributions. Also, when you spot any problems with the code during using the package after pip installing it, please feel free to report it here. 
 
+## About the Package
+
+Note that beside the files in this repository, a few extra files are needed for successfully uploading this package to test.pypi.org and pypi.org. These files include a \__init__.py, a license.txt, a setup.cfg, and finally a setup.py. Except for the setup.py file, all the other files including the README.md file should be in one folder which is named as the package name. 
+
+Once all the files are set up properly, they are ready to be uploaded to test PyPi and finally PyPi for other programmers to install for their own use.
 
 
 
