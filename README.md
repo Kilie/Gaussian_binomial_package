@@ -4,7 +4,7 @@ This package can be used to calculate the mean, standard deviation, and probabil
 
 Additions of two Gaussian distributions or two binomial distributions, respectively, can be also conducted using this package. Note that when adding two binomial distributions, their probability will have to be equal. Otherwise, the code will raise an error. 
 
-Finally, one can also visualize the probability density function of a given Gaussian distribution or Binomial distribution using this package. 
+Finally, one can also visualize the probability density function of a given Gaussian distribution or binomial distribution using this package. 
 
 This is a course project from the Data Scientist Nanodgree program from Udacity, as a practice for Object-Oriented Programming as well as making a package for publishing on PyPi. 
 
