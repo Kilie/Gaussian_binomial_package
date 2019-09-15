@@ -1,14 +1,12 @@
 ## Gaussian and Binomial Distributions 
 
-This package can be used to calculate the mean, standard deviation, and probability density of Gaussian and binomial distributions. 
+This package was wrote to calculate the mean, standard deviation, probability density, and additions of Gaussian and binomial distributions, respectively. Note that when adding two binomial distributions, their probability will have to be equal. Otherwise, the code will raise an error. 
 
-Additions of two Gaussian distributions or two binomial distributions, respectively, can be also conducted using this package. Note that when adding two binomial distributions, their probability will have to be equal. Otherwise, the code will raise an error. 
+In addition, one can also visualize the probability density function of a given Gaussian distribution or binomial distribution using this package. 
 
-Finally, one can also visualize the probability density function of a given Gaussian distribution or binomial distribution using this package. 
+This is a course project from the Data Scientist Nanodegree program from Udacity, as a practice for Object-Oriented Programming as well as making a package for publishing on PyPi. 
 
-This is a course project from the Data Scientist Nanodgree program from Udacity, as a practice for Object-Oriented Programming as well as making a package for publishing on PyPi. 
-
-The package has been already published on PyPi. Therefore, it can be pip installed by using this command line pip install jx_distributions in your terminal if you want to try it out.  
+The package has been already published on PyPi. Therefore, it can be pip installed by using this command line pip install jx_distributions in your terminal.  
 
 ## File Discription
 
